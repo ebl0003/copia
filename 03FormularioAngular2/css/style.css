@@ -6,6 +6,8 @@ html{
     flex-direction: row;
 }
 .logo{
-    size: 20rem 40rem;
-    background-color: black;
+  width: 40rem;
+  height: 20rem;
+  
+    
 }
