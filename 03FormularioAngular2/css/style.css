@@ -1,7 +1,11 @@
 html{
     font-size: 12px;
 }
-
+.encabezado{
+    display: flex;
+    flex-direction: row;
+}
 .logo{
+    size: 20rem 40rem;
     background-color: black;
 }
