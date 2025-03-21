@@ -31,3 +31,24 @@ margin-top: 2rem;
 flex-direction: column;
 
 }
+
+.botones{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding-top: 2rem;
+}
+
+.boton{
+    background-color: rgb(13, 122, 162);
+    color: rgb(255, 255, 255);
+    width: 20rem;
+    height: 5rem;
+    border: none;
+    border-radius: 10px;
+    margin-left: 3rem;
+}
+
+.footer-content{
+    background-color: rgb(13, 122, 162);
+}
