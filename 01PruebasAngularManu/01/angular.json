@@ -27,6 +27,7 @@
               }
             ],
             "styles": [
+              "01PruebasAngularManu/01/node_modules/bootstrap/dist/css/bootstrap.css.map"
               "src/styles.css"
             ],
             "scripts": [],
